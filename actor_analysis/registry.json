@@ -1,0 +1,1589 @@
+{
+  "actors": [
+    {
+      "name": "Microsoft",
+      "category": "Company",
+      "aliases": [
+        "Microsoft"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Amazon / AWS",
+      "category": "Company",
+      "aliases": [
+        "Amazon",
+        "Amazon Web Services",
+        "AWS"
+      ],
+      "ner_aliases": [],
+      "note": "Business-group aggregation; aliases include a subsidiary or brand."
+    },
+    {
+      "name": "Google / Alphabet",
+      "category": "Company",
+      "aliases": [
+        "Google",
+        "Alphabet"
+      ],
+      "ner_aliases": [],
+      "note": "Business-group aggregation; aliases include a subsidiary or brand."
+    },
+    {
+      "name": "Meta / Facebook",
+      "category": "Company",
+      "aliases": [
+        "Meta",
+        "Facebook"
+      ],
+      "ner_aliases": [],
+      "note": "Business-group aggregation; aliases include a subsidiary or brand."
+    },
+    {
+      "name": "Nvidia",
+      "category": "Company",
+      "aliases": [
+        "Nvidia",
+        "NVIDIA"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "OpenAI",
+      "category": "Company",
+      "aliases": [
+        "OpenAI",
+        "Open AI"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Oracle",
+      "category": "Company",
+      "aliases": [
+        "Oracle"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Apple",
+      "category": "Company",
+      "aliases": [
+        "Apple"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "IBM",
+      "category": "Company",
+      "aliases": [
+        "IBM"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "OVHcloud",
+      "category": "Company",
+      "aliases": [
+        "OVHcloud",
+        "OVH"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Scaleway",
+      "category": "Company",
+      "aliases": [
+        "Scaleway"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Iliad",
+      "category": "Company",
+      "aliases": [
+        "Iliad"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Orange",
+      "category": "Company",
+      "aliases": [
+        "Orange"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Equinix",
+      "category": "Company",
+      "aliases": [
+        "Equinix"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Digital Realty / Interxion",
+      "category": "Company",
+      "aliases": [
+        "Digital Realty",
+        "Interxion"
+      ],
+      "ner_aliases": [],
+      "note": "Business-group aggregation; aliases include a subsidiary or brand."
+    },
+    {
+      "name": "Data4",
+      "category": "Company",
+      "aliases": [
+        "Data4",
+        "Data 4"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Echelon Data Centres",
+      "category": "Company",
+      "aliases": [
+        "Echelon",
+        "Echelon Data Centres"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "CyrusOne",
+      "category": "Company",
+      "aliases": [
+        "CyrusOne",
+        "Cyrus One"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "QTS",
+      "category": "Company",
+      "aliases": [
+        "QTS"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Vantage Data Centers",
+      "category": "Company",
+      "aliases": [
+        "Vantage Data Centers",
+        "Vantage Data Centres"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Brookfield",
+      "category": "Company",
+      "aliases": [
+        "Brookfield"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Blackstone",
+      "category": "Company",
+      "aliases": [
+        "Blackstone"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "BlackRock",
+      "category": "Company",
+      "aliases": [
+        "BlackRock"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Engie",
+      "category": "Energy / grid company",
+      "aliases": [
+        "Engie",
+        "ENGIE"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "EDF",
+      "category": "Energy / grid company",
+      "aliases": [
+        "EDF",
+        "Électricité de France",
+        "Electricité de France"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "RTE",
+      "category": "Energy / grid company",
+      "aliases": [
+        "RTE",
+        "Réseau de transport d’électricité"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "EirGrid",
+      "category": "Energy / grid company",
+      "aliases": [
+        "EirGrid",
+        "Eirgrid"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "ESB",
+      "category": "Energy / grid company",
+      "aliases": [
+        "ESB",
+        "Electricity Supply Board"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "Gas Networks Ireland",
+      "category": "Energy / grid company",
+      "aliases": [
+        "Gas Networks Ireland"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "Intel",
+      "category": "Company",
+      "aliases": [
+        "Intel"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "AMD",
+      "category": "Company",
+      "aliases": [
+        "AMD"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Huawei",
+      "category": "Company",
+      "aliases": [
+        "Huawei"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Alibaba",
+      "category": "Company",
+      "aliases": [
+        "Alibaba"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Tencent",
+      "category": "Company",
+      "aliases": [
+        "Tencent"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "DeepSeek",
+      "category": "Company",
+      "aliases": [
+        "DeepSeek",
+        "Deepseek"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Anthropic",
+      "category": "Company",
+      "aliases": [
+        "Anthropic"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Hugging Face",
+      "category": "Company",
+      "aliases": [
+        "Hugging Face",
+        "HuggingFace"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "CoreWeave",
+      "category": "Company",
+      "aliases": [
+        "CoreWeave"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Schneider Electric",
+      "category": "Company",
+      "aliases": [
+        "Schneider Electric"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Siemens",
+      "category": "Company",
+      "aliases": [
+        "Siemens"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "TikTok / ByteDance",
+      "category": "Company",
+      "aliases": [
+        "TikTok",
+        "Tiktok",
+        "ByteDance",
+        "Bytedance"
+      ],
+      "ner_aliases": [],
+      "note": "Business-group aggregation; aliases include a subsidiary or brand."
+    },
+    {
+      "name": "Tesla",
+      "category": "Company",
+      "aliases": [
+        "Tesla"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "xAI",
+      "category": "Company",
+      "aliases": [
+        "xAI"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "SpaceX",
+      "category": "Company",
+      "aliases": [
+        "SpaceX"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Dell",
+      "category": "Company",
+      "aliases": [
+        "Dell"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Samsung",
+      "category": "Company",
+      "aliases": [
+        "Samsung"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "SoftBank",
+      "category": "Company",
+      "aliases": [
+        "SoftBank",
+        "Softbank"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "TotalEnergies",
+      "category": "Energy / grid company",
+      "aliases": [
+        "TotalEnergies"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "Accenture",
+      "category": "Company",
+      "aliases": [
+        "Accenture"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Capgemini",
+      "category": "Company",
+      "aliases": [
+        "Capgemini"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Nscale",
+      "category": "Company",
+      "aliases": [
+        "Nscale"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Fluidstack",
+      "category": "Company",
+      "aliases": [
+        "Fluidstack",
+        "FluidStack"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Mistral AI",
+      "category": "Company",
+      "aliases": [
+        "Mistral AI",
+        "MistralAI"
+      ],
+      "ner_aliases": [
+        "Mistral"
+      ],
+      "note": ""
+    },
+    {
+      "name": "European Commission",
+      "category": "Public authority / institution",
+      "aliases": [
+        "European Commission",
+        "Commission européenne",
+        "Commission europeenne"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "European Union",
+      "category": "Public authority / institution",
+      "aliases": [
+        "European Union",
+        "Union européenne",
+        "EU",
+        "UE"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "European Parliament",
+      "category": "Public authority / institution",
+      "aliases": [
+        "European Parliament",
+        "Parlement européen"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "French government",
+      "category": "Public authority / institution",
+      "aliases": [
+        "gouvernement français",
+        "gouvernement francais",
+        "French government"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Irish government",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Irish government",
+        "gouvernement irlandais"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "US government",
+      "category": "Public authority / institution",
+      "aliases": [
+        "US government",
+        "U.S. government",
+        "gouvernement américain",
+        "administration américaine"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "White House",
+      "category": "Public authority / institution",
+      "aliases": [
+        "White House",
+        "Maison Blanche",
+        "Maison-Blanche"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Élysée",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Élysée",
+        "Elysée",
+        "Elysee"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "IDA Ireland",
+      "category": "Public authority / institution",
+      "aliases": [
+        "IDA Ireland",
+        "Industrial Development Authority"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Commission for Regulation of Utilities",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Commission for Regulation of Utilities",
+        "CRU"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Environmental Protection Agency (country unresolved)",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Environmental Protection Agency",
+        "EPA"
+      ],
+      "ner_aliases": [],
+      "note": "The name alone does not establish the national institution or party. Check the article context."
+    },
+    {
+      "name": "An Bord Pleanála",
+      "category": "Public authority / institution",
+      "aliases": [
+        "An Bord Pleanála",
+        "An Bord Pleanala"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Dublin City Council",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Dublin City Council"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "South Dublin County Council",
+      "category": "Public authority / institution",
+      "aliases": [
+        "South Dublin County Council"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Fingal County Council",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Fingal County Council"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Meath County Council",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Meath County Council"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Oireachtas",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Oireachtas"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Dáil Éireann",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Dáil Éireann",
+        "Dail Eireann",
+        "Dáil",
+        "Dail"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Assemblée nationale",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Assemblée nationale"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Sénat (country unresolved)",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Sénat"
+      ],
+      "ner_aliases": [],
+      "note": "The name alone does not establish the national institution or party. Check the article context."
+    },
+    {
+      "name": "CNIL",
+      "category": "Public authority / institution",
+      "aliases": [
+        "CNIL",
+        "Commission nationale de l’informatique et des libertés"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "ADEME",
+      "category": "Public authority / institution",
+      "aliases": [
+        "ADEME",
+        "Ademe"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Arcep",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Arcep",
+        "ARCEP"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Commission de régulation de l’énergie",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Commission de régulation de l’énergie",
+        "CRE"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Department of Enterprise (Ireland)",
+      "category": "Public authority / institution",
+      "aliases": [
+        "Department of Enterprise"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "International Energy Agency",
+      "category": "Research / international institution",
+      "aliases": [
+        "International Energy Agency",
+        "Agence internationale de l’énergie",
+        "Agence internationale de l'énergie",
+        "IEA",
+        "AIE"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "OECD",
+      "category": "Research / international institution",
+      "aliases": [
+        "OECD",
+        "OCDE"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "United Nations",
+      "category": "Research / international institution",
+      "aliases": [
+        "United Nations",
+        "Nations unies",
+        "ONU"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "CNRS",
+      "category": "Research / international institution",
+      "aliases": [
+        "CNRS"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Inria",
+      "category": "Research / international institution",
+      "aliases": [
+        "Inria",
+        "INRIA"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Trinity College Dublin",
+      "category": "Research / international institution",
+      "aliases": [
+        "Trinity College Dublin"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "University College Dublin",
+      "category": "Research / international institution",
+      "aliases": [
+        "University College Dublin",
+        "UCD"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "International Monetary Fund",
+      "category": "Research / international institution",
+      "aliases": [
+        "International Monetary Fund",
+        "Fonds monétaire international",
+        "IMF",
+        "FMI"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Emmanuel Macron",
+      "category": "Political figure",
+      "aliases": [
+        "Emmanuel Macron",
+        "Macron"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Donald Trump",
+      "category": "Political figure",
+      "aliases": [
+        "Donald Trump",
+        "Trump"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Joe Biden",
+      "category": "Political figure",
+      "aliases": [
+        "Joe Biden",
+        "Biden"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Leo Varadkar",
+      "category": "Political figure",
+      "aliases": [
+        "Leo Varadkar",
+        "Varadkar"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Micheál Martin",
+      "category": "Political figure",
+      "aliases": [
+        "Micheál Martin",
+        "Micheal Martin"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Simon Harris",
+      "category": "Political figure",
+      "aliases": [
+        "Simon Harris"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Eamon Ryan",
+      "category": "Political figure",
+      "aliases": [
+        "Eamon Ryan",
+        "Éamon Ryan"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Paschal Donohoe",
+      "category": "Political figure",
+      "aliases": [
+        "Paschal Donohoe",
+        "Donohoe"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Darragh O’Brien",
+      "category": "Political figure",
+      "aliases": [
+        "Darragh O’Brien",
+        "Darragh O'Brien"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Peter Burke",
+      "category": "Political figure",
+      "aliases": [
+        "Peter Burke"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Ursula von der Leyen",
+      "category": "Political figure",
+      "aliases": [
+        "Ursula von der Leyen",
+        "von der Leyen"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Thierry Breton",
+      "category": "Political figure",
+      "aliases": [
+        "Thierry Breton"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Bruno Le Maire",
+      "category": "Political figure",
+      "aliases": [
+        "Bruno Le Maire"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Jean-Noël Barrot",
+      "category": "Political figure",
+      "aliases": [
+        "Jean-Noël Barrot",
+        "Jean-Noel Barrot"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Clara Chappaz",
+      "category": "Political figure",
+      "aliases": [
+        "Clara Chappaz"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Élisabeth Borne",
+      "category": "Political figure",
+      "aliases": [
+        "Élisabeth Borne",
+        "Elisabeth Borne"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Gabriel Attal",
+      "category": "Political figure",
+      "aliases": [
+        "Gabriel Attal"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "François Bayrou",
+      "category": "Political figure",
+      "aliases": [
+        "François Bayrou",
+        "Francois Bayrou"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Michel Barnier",
+      "category": "Political figure",
+      "aliases": [
+        "Michel Barnier"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Roderic O’Gorman",
+      "category": "Political figure",
+      "aliases": [
+        "Roderic O’Gorman",
+        "Roderic O'Gorman"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Simon Coveney",
+      "category": "Political figure",
+      "aliases": [
+        "Simon Coveney",
+        "Coveney"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Robert Troy",
+      "category": "Political figure",
+      "aliases": [
+        "Robert Troy"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Mary Lou McDonald",
+      "category": "Political figure",
+      "aliases": [
+        "Mary Lou McDonald"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Xi Jinping",
+      "category": "Political figure",
+      "aliases": [
+        "Xi Jinping"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Keir Starmer",
+      "category": "Political figure",
+      "aliases": [
+        "Keir Starmer"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Rishi Sunak",
+      "category": "Political figure",
+      "aliases": [
+        "Rishi Sunak"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Sinn Féin",
+      "category": "Political party",
+      "aliases": [
+        "Sinn Féin",
+        "Sinn Fein"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Fianna Fáil",
+      "category": "Political party",
+      "aliases": [
+        "Fianna Fáil",
+        "Fianna Fail"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Fine Gael",
+      "category": "Political party",
+      "aliases": [
+        "Fine Gael"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Green Party (country unresolved)",
+      "category": "Political party",
+      "aliases": [
+        "Green Party"
+      ],
+      "ner_aliases": [],
+      "note": "The name alone does not establish the national institution or party. Check the article context."
+    },
+    {
+      "name": "Rassemblement national",
+      "category": "Political party",
+      "aliases": [
+        "Rassemblement national"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "La France insoumise",
+      "category": "Political party",
+      "aliases": [
+        "La France insoumise"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Républicains (country unresolved)",
+      "category": "Political party",
+      "aliases": [
+        "Les Républicains"
+      ],
+      "ner_aliases": [],
+      "note": "May refer to the French party or Republicans elsewhere; country requires contextual review."
+    },
+    {
+      "name": "Parti socialiste",
+      "category": "Political party",
+      "aliases": [
+        "Parti socialiste"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Social Democrats (country unresolved)",
+      "category": "Political party",
+      "aliases": [
+        "Social Democrats"
+      ],
+      "ner_aliases": [],
+      "note": "The name alone does not establish the national institution or party. Check the article context."
+    },
+    {
+      "name": "Greenpeace",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Greenpeace"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Friends of the Earth",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Friends of the Earth",
+        "Amis de la Terre"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "France Nature Environnement",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "France Nature Environnement"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Not Here Not Anywhere",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Not Here Not Anywhere"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Stop Data Centers",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Stop Data Centers"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Extinction Rebellion",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Extinction Rebellion"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Ibec",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Ibec",
+        "IBEC"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Bitkom",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Bitkom"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "France Datacenter",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "France Datacenter",
+        "France Data Center"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Digital Business Ireland",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Digital Business Ireland"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Data Centre Alliance",
+      "category": "Civil society / industry association",
+      "aliases": [
+        "Data Centre Alliance"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Elon Musk",
+      "category": "Business figure",
+      "aliases": [
+        "Elon Musk",
+        "Musk"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Sam Altman",
+      "category": "Business figure",
+      "aliases": [
+        "Sam Altman",
+        "Altman"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Jensen Huang",
+      "category": "Business figure",
+      "aliases": [
+        "Jensen Huang"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Satya Nadella",
+      "category": "Business figure",
+      "aliases": [
+        "Satya Nadella",
+        "Nadella"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Sundar Pichai",
+      "category": "Business figure",
+      "aliases": [
+        "Sundar Pichai",
+        "Pichai"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "category": "Business figure",
+      "aliases": [
+        "Mark Zuckerberg",
+        "Zuckerberg"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "category": "Business figure",
+      "aliases": [
+        "Jeff Bezos",
+        "Bezos"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Andy Jassy",
+      "category": "Business figure",
+      "aliases": [
+        "Andy Jassy",
+        "Jassy"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Xavier Niel",
+      "category": "Business figure",
+      "aliases": [
+        "Xavier Niel",
+        "Niel"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Arthur Mensch",
+      "category": "Business figure",
+      "aliases": [
+        "Arthur Mensch"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Octave Klaba",
+      "category": "Business figure",
+      "aliases": [
+        "Octave Klaba",
+        "Klaba"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Larry Ellison",
+      "category": "Business figure",
+      "aliases": [
+        "Larry Ellison",
+        "Ellison"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Tim Cook",
+      "category": "Business figure",
+      "aliases": [
+        "Tim Cook"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Dario Amodei",
+      "category": "Business figure",
+      "aliases": [
+        "Dario Amodei"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "MGX",
+      "category": "Company",
+      "aliases": [
+        "MGX"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Thales",
+      "category": "Company",
+      "aliases": [
+        "Thales"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Airbus",
+      "category": "Company",
+      "aliases": [
+        "Airbus"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Servecentric",
+      "category": "Company",
+      "aliases": [
+        "Servecentric"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Winthrop Technologies",
+      "category": "Company",
+      "aliases": [
+        "Winthrop Technologies",
+        "Winthrop"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Northern Data",
+      "category": "Company",
+      "aliases": [
+        "Northern Data"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "SSE",
+      "category": "Energy / grid company",
+      "aliases": [
+        "SSE"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "Deloitte",
+      "category": "Company",
+      "aliases": [
+        "Deloitte"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "BP",
+      "category": "Energy / grid company",
+      "aliases": [
+        "BP"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "Dalkia",
+      "category": "Energy / grid company",
+      "aliases": [
+        "Dalkia"
+      ],
+      "ner_aliases": [],
+      "note": "Sector grouping; this category does not distinguish public from private ownership."
+    },
+    {
+      "name": "Fatih Birol",
+      "category": "Institutional figure",
+      "aliases": [
+        "Fatih Birol"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Brad Smith",
+      "category": "Business figure",
+      "aliases": [
+        "Brad Smith"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    },
+    {
+      "name": "Pat Gelsinger",
+      "category": "Business figure",
+      "aliases": [
+        "Pat Gelsinger"
+      ],
+      "ner_aliases": [],
+      "note": ""
+    }
+  ],
+  "exclude": [
+    "IA",
+    "AI",
+    "GPT",
+    "ChatGPT",
+    "Chat GPT",
+    "GPT-4",
+    "GPT-3",
+    "Intelligence artificielle",
+    "Intelligence Artificielle",
+    "Artificial Intelligence",
+    "Data",
+    "Data Centres",
+    "Data Centers",
+    "France",
+    "Ireland",
+    "Europe",
+    "Dublin",
+    "Paris",
+    "Marseille",
+    "État",
+    "Etat",
+    "Government",
+    "State",
+    "Les Échos",
+    "Les Echos",
+    "Le Monde",
+    "Le Figaro",
+    "La Croix",
+    "The Irish Times",
+    "Irish Independent",
+    "Irish Daily Mail",
+    "Le Parisien",
+    "Libération",
+    "Irish Mirror",
+    "Financial Times",
+    "Gafam",
+    "GAFAM",
+    "NDLR",
+    "FIGARO",
+    "AFP",
+    "L’IA",
+    "GenAI",
+    "LNG",
+    "FDI",
+    "iPhone",
+    "SMR",
+    "Commission",
+    "président de la République",
+    "Washington",
+    "Abu Dhabi",
+    "Redmond",
+    "Cork",
+    "Leixlip",
+    "Wall Street Journal",
+    "Taoiseach"
+  ]
+}

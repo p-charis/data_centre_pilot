@@ -1,0 +1,172 @@
+{
+  "France": {
+    "raw_articles": 11197,
+    "probable_duplicates_removed": 4,
+    "articles": 11193,
+    "date_min": "2022-01-11",
+    "date_max": "2025-06-30",
+    "dc_articles": 642,
+    "dc_mentions": 1653,
+    "sustained_articles_2plus": 271,
+    "by_year": {
+      "2022": {
+        "all": 1312,
+        "dc": 38
+      },
+      "2023": {
+        "all": 3373,
+        "dc": 81
+      },
+      "2024": {
+        "all": 3841,
+        "dc": 235
+      },
+      "2025": {
+        "all": 2667,
+        "dc": 288
+      }
+    },
+    "sources": {
+      "la_croix": 15,
+      "le_monde": 127,
+      "le_figaro": 139,
+      "les_echos": 294,
+      "aujourdhui_en_france": 17,
+      "libération": 24,
+      "lhumanité": 26
+    },
+    "source_totals": {
+      "la_croix": 631,
+      "le_monde": 2146,
+      "libération": 634,
+      "le_figaro": 2553,
+      "les_echos": 4226,
+      "aujourdhui_en_france": 612,
+      "lhumanité": 391
+    },
+    "themes_all": {
+      "ecology": {
+        "article": 310,
+        "near": 210
+      },
+      "energy": {
+        "article": 371,
+        "near": 296
+      },
+      "sovereignty": {
+        "article": 111,
+        "near": 43
+      },
+      "ai": {
+        "article": 638,
+        "near": 538
+      }
+    },
+    "themes_sustained": {
+      "ecology": {
+        "article": 157,
+        "near": 134
+      },
+      "energy": {
+        "article": 190,
+        "near": 173
+      },
+      "sovereignty": {
+        "article": 54,
+        "near": 29
+      },
+      "ai": {
+        "article": 271,
+        "near": 249
+      }
+    },
+    "joint_near": {
+      "eco_and_sov": 20,
+      "eco_only": 190,
+      "sov_only": 23,
+      "neither": 409
+    }
+  },
+  "Ireland": {
+    "raw_articles": 3319,
+    "probable_duplicates_removed": 3,
+    "articles": 3316,
+    "date_min": "2022-01-27",
+    "date_max": "2025-06-21",
+    "dc_articles": 154,
+    "dc_mentions": 649,
+    "sustained_articles_2plus": 86,
+    "by_year": {
+      "2022": {
+        "all": 442,
+        "dc": 8
+      },
+      "2023": {
+        "all": 1143,
+        "dc": 21
+      },
+      "2024": {
+        "all": 1108,
+        "dc": 69
+      },
+      "2025": {
+        "all": 623,
+        "dc": 56
+      }
+    },
+    "sources": {
+      "TheIrishTimes": 88,
+      "IrishIndependent": 55,
+      "IrishDailyMail": 8,
+      "irishmirrorie": 3
+    },
+    "source_totals": {
+      "IrishIndependent": 957,
+      "TheIrishTimes": 1700,
+      "IrishDailyMail": 446,
+      "irishmirrorie": 213
+    },
+    "themes_all": {
+      "ecology": {
+        "article": 93,
+        "near": 82
+      },
+      "energy": {
+        "article": 107,
+        "near": 93
+      },
+      "sovereignty": {
+        "article": 0,
+        "near": 0
+      },
+      "ai": {
+        "article": 150,
+        "near": 134
+      }
+    },
+    "themes_sustained": {
+      "ecology": {
+        "article": 59,
+        "near": 58
+      },
+      "energy": {
+        "article": 70,
+        "near": 66
+      },
+      "sovereignty": {
+        "article": 0,
+        "near": 0
+      },
+      "ai": {
+        "article": 84,
+        "near": 80
+      }
+    },
+    "joint_near": {
+      "eco_and_sov": 0,
+      "eco_only": 82,
+      "sov_only": 0,
+      "neither": 72
+    }
+  }
+}

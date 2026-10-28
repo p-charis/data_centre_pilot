@@ -1,0 +1,12 @@
+country,source,all_ai_corpus_articles,data_centre_articles,percent_of_outlet_ai_corpus,percent_of_country_data_centre_subset
+France,les_echos,4226,294,6.96,45.79
+France,le_figaro,2553,139,5.44,21.65
+France,le_monde,2146,127,5.92,19.78
+France,lhumanité,391,26,6.65,4.05
+France,libération,634,24,3.79,3.74
+France,aujourdhui_en_france,612,17,2.78,2.65
+France,la_croix,631,15,2.38,2.34
+Ireland,TheIrishTimes,1700,88,5.18,57.14
+Ireland,IrishIndependent,957,55,5.75,35.71
+Ireland,IrishDailyMail,446,8,1.79,5.19
+Ireland,irishmirrorie,213,3,1.41,1.95

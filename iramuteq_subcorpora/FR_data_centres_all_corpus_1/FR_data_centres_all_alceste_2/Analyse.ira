@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 20000
+tailleuc1 = 12
+nbcl = 4
+tailleuc2 = 14
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 30
+svdmethod = irlba
+mode.patate = 0
+corpus = 326b8a3d-e993-4025-9958-9d9d92071514
+pathout = /Users/charisp./Library/CloudStorage/Nextcloud-algosoc.data.surf.nl-CharisPapaevangelou/FORSEE/FORSEE Data/data_centre_pilot/iramuteq_subcorpora/FR_data_centres_all_corpus_1/FR_data_centres_all_alceste_2
+uuid = fb478831-08b4-4e1f-be5d-1d388f71f866
+name = FR_data_centres_all_alceste_2
+eff_min_forme = 3
+nbactives = 7745
+clnb = 11
+time = 0h 2m 27s
+ira = /Users/charisp./Library/CloudStorage/Nextcloud-algosoc.data.surf.nl-CharisPapaevangelou/FORSEE/FORSEE Data/data_centre_pilot/iramuteq_subcorpora/FR_data_centres_all_corpus_1/FR_data_centres_all_alceste_2/Analyse.ira
